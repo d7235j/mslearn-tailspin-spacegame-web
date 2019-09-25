@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dcf-EDS-1/Joans%20Space%20Game%20-%20web/_apis/build/status/d7235j.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/dcf-EDS-1/Joans%20Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
